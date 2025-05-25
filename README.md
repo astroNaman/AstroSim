@@ -77,4 +77,4 @@ This is more than just an app. It’s a statement: that with vision, effort, and
 **YouTube:** [@astroSim-INDIAOFFICIAL](https://www.youtube.com/@astroSim-INDIAOFFICIAL)
 
 ## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE-2.0.txt) file for details.
