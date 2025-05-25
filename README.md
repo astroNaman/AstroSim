@@ -75,4 +75,6 @@ This is more than just an app. It’s a statement: that with vision, effort, and
 **Email:** astrotechnaman@gmail.com  
 **GitHub:** [astroNaman](https://github.com/astroNaman)  
 **YouTube:** [@astroSim-INDIAOFFICIAL](https://www.youtube.com/@astroSim-INDIAOFFICIAL)
-Licensed under the Apache License 2.0
+
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
